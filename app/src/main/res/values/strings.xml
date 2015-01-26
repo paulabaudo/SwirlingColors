@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CheckMate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view_tips">Calculate the tip</string>
+    <string name="edit_text_amount_hint">Check Amount</string>
+    <string name="button_calculate_tip">Calculate the tip for my waiter</string>
+    <string name="radio_15_pct_text">15%</string>
+    <string name="radio_20_pct_text">20%</string>
+    <string name="radio_no_tip_text">No tip</string>
+
+</resources>
